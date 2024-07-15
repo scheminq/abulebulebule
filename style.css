@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+header {
+    font-family:'Courier New', Courier, monospace;
+    color:azure;
+}
+.texto {
+    color: aqua;
+}
+#test {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+footer {
+    color:aliceblue;
+}
